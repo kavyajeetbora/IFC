@@ -1,11 +1,12 @@
 ## Understanding and Extracting data from an IFC File
 
-In this project we will extract all the relevant information from the [IFC file](IFC Files\MAD_SCIENTIST_21.ifc)
+In this project we will extract all the relevant information from the <a href="IFC Files\MAD_SCIENTIST_21.ifc">IFC File</a>
 
-View of the IFC model in blender3D:
-<img src="gifs\3d Blender view.gif" height=500>
+<img src="gifs\3d Blender view.gif" height=400>
 
-In this project we will understand the basics of the IFC file and extract all the relevant information from it. Before that we will try understand what is IFC file and its basic data structure
+Before that we will try understand what is IFC file and its basic data structure.
+
+The code used to extract the data can be found this <a href="ifcopenshell_basics.ipynb">Notebook</a>
 
 ## Industry Foundation Classes (IFC)
 
