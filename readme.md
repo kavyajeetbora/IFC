@@ -1,3 +1,10 @@
+## Understanding and Extracting data from an IFC File
+
+View of the IFC model in blender3D:
+<img src="gifs\3d Blender view.gif" height=500>
+
+In this project we will understand the basics of the IFC file and extract all the relevant information from it. Before that we will try understand what is IFC file and its basic data structure
+
 ## Industry Foundation Classes (IFC)
 
 IFC or Industry Foundation Classes is a global standard for describing, sharing and exchanging information on building and facility management.
