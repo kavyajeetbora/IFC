@@ -1,5 +1,7 @@
 ## Understanding and Extracting data from an IFC File
 
+In this project we will extract all the relevant information from the [IFC file](IFC Files\MAD_SCIENTIST_21.ifc)
+
 View of the IFC model in blender3D:
 <img src="gifs\3d Blender view.gif" height=500>
 
